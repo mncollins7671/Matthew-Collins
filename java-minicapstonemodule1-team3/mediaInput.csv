@@ -1,0 +1,45 @@
+BOOK,The Great Gatsby,1925,Classic,B001,10.99,F. Scott Fitzgerald,9780743273565,180,20
+BOOK,To Kill a Mockingbird,1960,Classic,B002,12.50,Harper Lee,9780061120084,324,30
+BOOK,1984,1949,Dystopian,B003,9.75,George Orwell,9780451524935,328,5
+BOOK,Pride and Prejudice,1813,Romance,B004,8.99,Jane Austen,9780141439518,432,52
+BOOK,The Hobbit,1937,Fantasy,B005,14.25,J.R.R. Tolkien,9780547928227,310,4
+BOOK,Harry Potter and the Sorcerer's Stone,1997,Fantasy,B006,11.50,J.K. Rowling,9780590353427,309,9
+BOOK,The Catcher in the Rye,1951,Fiction,B007,10.20,J.D. Salinger,9780316769488,224,7
+BOOK,Brave New World,1932,Dystopian,B008,13.00,Aldous Huxley,9780060850524,311,6
+BOOK,Fahrenheit 451,1953,Sci-Fi,B009,9.99,Ray Bradbury,9781451673319,256,6
+MOVIE,The Shawshank Redemption,1994,Drama,M001,14.99,Frank Darabont,142,R,4
+MOVIE,The Godfather,1972,Crime,M002,13.50,Francis Ford Coppola,175,R,8
+MOVIE,Pulp Fiction,1994,Crime,M003,12.75,Quentin Tarantino,154,R,10
+MOVIE,The Dark Knight,2008,Action,M004,15.25,Christopher Nolan,152,PG-13,11
+MOVIE,Forrest Gump,1994,Drama,M005,11.99,Robert Zemeckis,142,PG-13,3
+MOVIE,Inception,2010,Sci-Fi,M006,16.00,Christopher Nolan,148,PG-13,15
+MOVIE,The Matrix,1999,Sci-Fi,M007,13.80,Lana Wachowski,136,R,4
+MOVIE,Spirited Away,2001,Animation,M008,17.50,Hayao Miyazaki,125,PG,6
+ALBUM,Thriller,1982,Pop,A001,10.99,Michael Jackson,9,Epic,7
+ALBUM,The Dark Side of the Moon,1973,Progressive Rock,A002,12.50,Pink Floyd,10,Harvest,13
+ALBUM,Abbey Road,1969,Rock,A003,11.75,The Beatles,17,Apple,4
+ALBUM,Rumours,1977,Rock,A004,9.99,Fleetwood Mac,11,Warner Bros.,120
+ALBUM,Nevermind,1991,Grunge,A005,13.20,Nirvana,12,DGC,45
+ALBUM,Back to Black,2006,Soul,A006,10.50,Amy Winehouse,10,Island,6
+ALBUM,Led Zeppelin IV,1971,Hard Rock,A007,14.00,Led Zeppelin,8,Atlantic,6
+ALBUM,Kind of Blue,1959,Jazz,A008,15.60,Miles Davis,5,Columbia,6
+VIDEOGAME,The Witcher 3: Wild Hunt,2015,RPG,VG001,39.99,PC,CD Projekt Red,M for Mature,5
+VIDEOGAME,Red Dead Redemption 2,2018,Action-Adventure,VG002,49.99,PlayStation 4,Rockstar Games,M for Mature,4
+VIDEOGAME,The Legend of Zelda: Breath of the Wild,2017,Action-Adventure,VG003,59.99,Nintendo Switch,Nintendo EPD,E10+ for Everyone 10+,3
+VIDEOGAME,God of War,2018,Action-Adventure,VG004,29.99,PlayStation 4,Santa Monica Studio,M for Mature,5
+VIDEOGAME,Grand Theft Auto V,2013,Action-Adventure,VG005,19.99,PC,Rockstar North,M for Mature,5
+VIDEOGAME,Minecraft,2011,Sandbox,VG006,26.95,Multi-platform,Mojang Studios,E10+ for Everyone 10+,5
+VIDEOGAME,Overwatch 2 Starter Pack,2022,Hero Shooter,VG007,19.99,PC,Blizzard Entertainment,T for Teen,6
+VIDEOGAME,Elden Ring,2022,Action RPG,VG008,59.99,PC,FromSoftware,M for Mature,6
+VIDEOGAME,Super Mario Odyssey,2017,Platformer,VG009,49.99,Nintendo Switch,Nintendo EPD,E10+ for Everyone 10+,6
+VIDEOGAME,Stardew Valley,2016,Simulation RPG,VG010,14.99,PC,ConcernedApe,E10+ for Everyone 10+,7
+AUDIOBOOK,Dune,2019,Sci-Fi,AB001,29.99,Scott Brick,1260,Frank Herbert,5
+AUDIOBOOK,The Martian,2014,Sci-Fi,AB002,22.50,R.C. Bray,652,Andy Weir,4
+AUDIOBOOK,Becoming,2018,Memoir,AB003,25.00,Michelle Obama,1140,Michelle Obama,5
+AUDIOBOOK,Sapiens: A Brief History of Humankind,2015,Non-Fiction,AB004,27.80,Derek Perkins,929,Yuval Noah Harari,5
+AUDIOBOOK,Atomic Habits,2018,Self-Help,AB005,19.99,James Clear,330,James Clear,5
+AUDIOBOOK,Where the Crawdads Sing,2019,Fiction,AB006,23.45,Cassandra Campbell,758,Delia Owens,3
+AUDIOBOOK,The Fellowship of the Ring,2021,Fantasy,AB007,35.00,Andy Serkis,1137,J.R.R. Tolkien,3
+AUDIOBOOK,Educated: A Memoir,2018,Memoir,AB008,21.75,Julia Whelan,726,Tara Westover,3
+AUDIOBOOK,Greenlights,2020,Memoir,AB009,26.50,Matthew McConaughey,405,Matthew McConaughey,4
+AUDIOBOOK,The Four Agreements,2005,Self-Help,AB010,15.99,Peter Coyote,138,Don Miguel Ruiz,4
